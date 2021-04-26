@@ -1,8 +1,8 @@
 An Hour of Learning
 
-1. Embeddings: Word2Vec, GloVe, fastText
+1. Embeddings: Word2Vec, GloVe, fastText; MLPs
 
-2. MLPs, RNNs, GRUs, LSTMs, variants.
+2. RNNs, GRUs, LSTMs, variants.
 
 3. Encoder-decoder, attention models, ELMo
 
