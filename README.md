@@ -41,6 +41,7 @@ An Hour of Learning
 - Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "Attention is all you need." In NIPS, pp. 5998-6008. 2017. 
 - Radford, Alec, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. "Improving language understanding by generative pre-training." (2018).
 - McCann, Bryan, James Bradbury, Caiming Xiong, and Richard Socher. "Learned in translation: Contextualized word vectors." In Advances in Neural Information Processing Systems, pp. 6294-6305. 2017.
+- Devlin, Jacob, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding." NAACL, pp. 4171-4186. 2019.
 - https://gluebenchmark.com/
 - http://jalammar.github.io/
 - https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html
