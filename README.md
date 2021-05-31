@@ -37,7 +37,7 @@ An Hour of Learning
 - Yin, Wenpeng, Hinrich Schütze, Bing Xiang, and Bowen Zhou. "Abcnn: Attention-based convolutional neural network for modeling sentence pairs." Transactions of the Association for Computational Linguistics 4 (2016): 259-272.
 - Rocktäschel, Tim, Edward Grefenstette, Karl Moritz Hermann, Tomáš Kočiský, and Phil Blunsom. "Reasoning about entailment with neural attention." arXiv preprint arXiv:1509.06664 (2015).
 
-**4. Transformers, GPT, BERT, GLUE**
+**4. Transformers, GPT, GPT2, GPT3, BERT, GLUE**
 - Vaswani, Ashish, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Łukasz Kaiser, and Illia Polosukhin. "Attention is all you need." In NIPS, pp. 5998-6008. 2017. 
 - Radford, Alec, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. "Improving language understanding by generative pre-training." (2018).
 - McCann, Bryan, James Bradbury, Caiming Xiong, and Richard Socher. "Learned in translation: Contextualized word vectors." In Advances in Neural Information Processing Systems, pp. 6294-6305. 2017.
@@ -50,9 +50,9 @@ An Hour of Learning
 
 **5. Sentence Embeddings: Doc2Vec, USE, InferSent, SentenceBERT**
 
-**6. Generative Transformer models: ProphetNet, GPT2, GPT3, T5, BART, mBART**
+**6. Generative Transformer models: XLNet, ProphetNet, T5, BART, Pegasus, MARGE**
 
-**7. Multi/Cross-lingual datasets: XGLUE, XTREME, XNLI, mBERT**
+**7. Multi/Cross-lingual datasets: XGLUE, XTREME, XNLI, mBERT, mBART**
 
 **8. Multi/Cross-lingual models: XNLG, XLM, Unicoder, XLM-R**
 
