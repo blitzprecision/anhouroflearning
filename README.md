@@ -50,11 +50,11 @@ An Hour of Learning
 
 **5. Sentence Embeddings: Doc2Vec, USE, InferSent, SentenceBERT**
 
-**6. Multi/Cross-lingual datasets: XGLUE, XTREME, XNLI, mBERT**
+**6. Generative Transformer models: ProphetNet, GPT2, GPT3, T5, BART, mBART**
 
-**7. Multi/Cross-lingual models: XNLG, XLM, Unicoder, XLM-R**
+**7. Multi/Cross-lingual datasets: XGLUE, XTREME, XNLI, mBERT**
 
-**8. Generative Transformer models: ProphetNet, GPT2, GPT3, T5, BART, mBART**
+**8. Multi/Cross-lingual models: XNLG, XLM, Unicoder, XLM-R**
 
 **9. Efficient Transformers: Sparse Transformer, Reformer, Sinkhorn transformer**
 
