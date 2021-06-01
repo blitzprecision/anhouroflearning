@@ -49,6 +49,19 @@ An Hour of Learning
 - Radford, Alec, Jeffrey Wu, Rewon Child, David Luan, Dario Amodei, and Ilya Sutskever. "Language models are unsupervised multitask learners." OpenAI blog 1, no. 8 (2019): 9.
 
 **5. Sentence Embeddings: Doc2Vec, USE, InferSent, SentenceBERT**
+- http://proceedings.mlr.press/v37/kusnerb15.pdf
+- Arora, Sanjeev, Yingyu Liang, and Tengyu Ma. "A simple but tough-to-beat baseline for sentence embeddings." In 5th International Conference on Learning Representations, ICLR 2017. 2017.
+- Le, Quoc, and Tomas Mikolov. "Distributed representations of sentences and documents." In International conference on machine learning, pp. 1188-1196. PMLR, 2014.
+- Kiros, Ryan, Yukun Zhu, Ruslan Salakhutdinov, Richard S. Zemel, Antonio Torralba, Raquel Urtasun, and Sanja Fidler. "Skip-thought vectors." arXiv preprint arXiv:1506.06726 (2015).
+- Logeswaran, Lajanugen, and Honglak Lee. "An efficient framework for learning sentence representations." In International Conference on Learning Representations. 2018.
+- Socher et al. Parsing Natural Scenes and Natural Language with Recursive Neural Networks. ICML 2011
+- Iyyer, Mohit, Varun Manjunatha, Jordan Boyd-Graber, and Hal Daumé III. "Deep unordered composition rivals syntactic methods for text classification." ACL, pp. 1681-1691. 2015.
+- Conneau, Alexis, Douwe Kiela, Holger Schwenk, Loic Barrault, and Antoine Bordes. "Supervised learning of universal sentence representations from natural language inference data." arXiv preprint arXiv:1705.02364 (2017).
+- Shen, Yelong, Xiaodong He, Jianfeng Gao, Li Deng, and Grégoire Mesnil. "Learning semantic representations using convolutional neural networks for web search." In Proceedings of the 23rd international conference on world wide web, pp. 373-374. 2014.
+- Cer, Daniel, Yinfei Yang, Sheng-yi Kong, Nan Hua, Nicole Limtiaco, Rhomni St John, Noah Constant et al. "Universal sentence encoder." arXiv preprint arXiv:1803.11175 (2018).
+- Liu, Xiaodong, Pengcheng He, Weizhu Chen, and Jianfeng Gao. "Multi-task deep neural networks for natural language understanding." arXiv preprint arXiv:1901.11504 (2019).
+- Subramanian, Sandeep, Adam Trischler, Yoshua Bengio, and Christopher J. Pal. "Learning general purpose distributed sentence representations via large scale multi-task learning." arXiv preprint arXiv:1804.00079 (2018).
+- Reimers, Nils, and Iryna Gurevych. "Sentence-bert: Sentence embeddings using siamese bert-networks." arXiv preprint arXiv:1908.10084 (2019).
 
 **6. Generative Transformer models: XLNet, ProphetNet, T5, BART, Pegasus, MARGE**
 
