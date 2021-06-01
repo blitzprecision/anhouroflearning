@@ -91,7 +91,7 @@ An Hour of Learning
 
 **19. Ads copywriting**
 
-**20. Question generation **
+**20. Question generation**
 
 **21. Hashtag recommendation**
 
