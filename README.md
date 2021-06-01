@@ -63,7 +63,7 @@ An Hour of Learning
 - Subramanian, Sandeep, Adam Trischler, Yoshua Bengio, and Christopher J. Pal. "Learning general purpose distributed sentence representations via large scale multi-task learning." arXiv preprint arXiv:1804.00079 (2018).
 - Reimers, Nils, and Iryna Gurevych. "Sentence-bert: Sentence embeddings using siamese bert-networks." arXiv preprint arXiv:1908.10084 (2019).
 
-**6. Generative Transformer models: XLNet, ProphetNet, T5, BART, Pegasus, MARGE**
+**6. Generative Transformer models: Transformer-XL, XLNet, ProphetNet, UniLM, MASS, CTRL, T5, BART**
 
 **7. Multi/Cross-lingual datasets: XGLUE, XTREME, XNLI, mBERT, mBART**
 
