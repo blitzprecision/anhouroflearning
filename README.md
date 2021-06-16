@@ -73,9 +73,23 @@ An Hour of Learning
 - Raffel, Colin, Noam Shazeer, Adam Roberts, Katherine Lee, Sharan Narang, Michael Matena, Yanqi Zhou, Wei Li, and Peter J. Liu. "Exploring the limits of transfer learning with a unified text-to-text transformer." arXiv preprint arXiv:1910.10683 (2019).
 - Yan, Yu, Weizhen Qi, Yeyun Gong, Dayiheng Liu, Nan Duan, Jiusheng Chen, Ruofei Zhang, and Ming Zhou. "Prophetnet: Predicting future n-gram for sequence-to-sequence pre-training." arXiv preprint arXiv:2001.04063 (2020).
 
-**7. Multi/Cross-lingual datasets: XGLUE, XTREME, XNLI, mBERT, mBART**
+**7. Multi/Cross-lingual NLP: Part 1**
+- XNLI: Conneau, Alexis, Guillaume Lample, Ruty Rinott, Adina Williams, Samuel R. Bowman, Holger Schwenk, and Veselin Stoyanov. "XNLI: Evaluating cross-lingual sentence representations." arXiv preprint arXiv:1809.05053 (2018).
+- mBERT: Pires, Telmo, Eva Schlinger, and Dan Garrette. "How Multilingual is Multilingual BERT?." ACL, pp. 4996-5001. 2019.
+- XLM: Conneau, Alexis, and Guillaume Lample. "Cross-lingual Language Model Pretraining." NIPS, pp. 7057-7067. 2019.
+- xQuAD: Artetxe, Mikel, Sebastian Ruder, and Dani Yogatama. "On the cross-lingual transferability of monolingual representations." arXiv preprint arXiv:1910.11856 (2019).
+- Unicoder: Huang, Haoyang, Yaobo Liang, Nan Duan, Ming Gong, Linjun Shou, Daxin Jiang, and Ming Zhou. "Unicoder: A Universal Language Encoder by Pre-training with Multiple Cross-lingual Tasks." EMNLP-IJCNLP, pp. 2485-2494. 2019.
+- XLM-R: Conneau, Alexis, Kartikay Khandelwal, Naman Goyal, Vishrav Chaudhary, Guillaume Wenzek, Francisco Guzmán, Edouard Grave, Myle Ott, Luke Zettlemoyer, and Veselin Stoyanov. "Unsupervised cross-lingual representation learning at scale." ACL 2020.
+- XGLUE: Liang, Yaobo, Nan Duan, Yeyun Gong, Ning Wu, Fenfei Guo, Weizhen Qi, Ming Gong et al. "Xglue: A new benchmark dataset for cross-lingual pre-training, understanding and generation." arXiv preprint arXiv:2004.01401 (2020).
 
-**8. Multi/Cross-lingual models: XNLG, XLM, Unicoder, XLM-R**
+**8. Multi/Cross-lingual NLP: Part 2**
+- XNLG: Chi, Zewen, Li Dong, Furu Wei, Wenhui Wang, Xian-Ling Mao, and Heyan Huang. "Cross-Lingual Natural Language Generation via Pre-Training." In AAAI, pp. 7570-7577. 2020. https://arxiv.org/pdf/1909.10481.pdf 
+- XTREME: Hu, Junjie, Sebastian Ruder, Aditya Siddhant, Graham Neubig, Orhan Firat, and Melvin Johnson. "XTREME: A Massively Multilingual Multi-task Benchmark for Evaluating Cross-lingual Generalisation." In International Conference on Machine Learning, pp. 4411-4421. PMLR, 2020.
+- XTREME-R: Ruder, Sebastian, Noah Constant, Jan Botha, Aditya Siddhant, Orhan Firat, Jinlan Fu, Pengfei Liu, Junjie Hu, Graham Neubig, and Melvin Johnson. "XTREME-R: Towards More Challenging and Nuanced Multilingual Evaluation." arXiv preprint arXiv:2104.07412 (2021).
+- mBART: Liu, Yinhan, Jiatao Gu, Naman Goyal, Xian Li, Sergey Edunov, Marjan Ghazvininejad, Mike Lewis, and Luke Zettlemoyer. "Multilingual denoising pre-training for neural machine translation." arXiv preprint arXiv:2001.08210 (2020).
+- InfoXLM: Chi, Zewen, Li Dong, Furu Wei, Nan Yang, Saksham Singhal, Wenhui Wang, Xia Song, Xian-Ling Mao, Heyan Huang, and Ming Zhou. "InfoXLM: An Information-Theoretic Framework for Cross-Lingual Language Model Pre-Training." arXiv preprint arXiv:2007.07834 (2020).
+- FILTER: Fang, Yuwei, Shuohang Wang, Zhe Gan, Siqi Sun, and Jingjing Liu. "FILTER: An enhanced fusion method for cross-lingual language understanding." arXiv preprint arXiv:2009.05166 (2020).
+- mT5: Xue, Linting, Noah Constant, Adam Roberts, Mihir Kale, Rami Al-Rfou, Aditya Siddhant, Aditya Barua, and Colin Raffel. "mT5: A massively multilingual pre-trained text-to-text transformer." arXiv preprint arXiv:2010.11934 (2020).
 
 **9. Efficient Transformers: Sparse Transformer, Reformer, Sinkhorn transformer**
 
