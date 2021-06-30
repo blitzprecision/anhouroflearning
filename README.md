@@ -99,7 +99,7 @@ An Hour of Learning
 - Tay, Yi, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, and Che Zheng. "Synthesizer: Rethinking self-attention in transformer models." arXiv preprint arXiv:2005.00743 (2020).
 - Wang, Sinong, Belinda Li, Madian Khabsa, Han Fang, and Hao Ma. "Linformer: Self-attention with linear complexity." arXiv preprint arXiv:2006.04768 (2020).
 
-**10. Efficient Transformers: Longformer, Linformer, Linear Transformers, BigBird**
+**10. Efficient Transformers: Part 2**
 - Tay, Yi, Dara Bahri, Liu Yang, Donald Metzler, and Da-Cheng Juan. "Sparse sinkhorn attention." In International Conference on Machine Learning, pp. 9438-9447. PMLR, 2020.
 - Choromanski, Krzysztof, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins et al. "Rethinking attention with performers." arXiv preprint arXiv:2009.14794 (2020).
 - Katharopoulos, Angelos, Apoorv Vyas, Nikolaos Pappas, and François Fleuret. "Transformers are rnns: Fast autoregressive transformers with linear attention." In International Conference on Machine Learning, pp. 5156-5165. PMLR, 2020.
