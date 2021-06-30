@@ -91,11 +91,31 @@ An Hour of Learning
 - FILTER: Fang, Yuwei, Shuohang Wang, Zhe Gan, Siqi Sun, and Jingjing Liu. "FILTER: An enhanced fusion method for cross-lingual language understanding." arXiv preprint arXiv:2009.05166 (2020).
 - mT5: Xue, Linting, Noah Constant, Adam Roberts, Mihir Kale, Rami Al-Rfou, Aditya Siddhant, Aditya Barua, and Colin Raffel. "mT5: A massively multilingual pre-trained text-to-text transformer." arXiv preprint arXiv:2010.11934 (2020).
 
-**9. Efficient Transformers: Sparse Transformer, Reformer, Sinkhorn transformer**
+**9. Efficient Transformers: Part 1**
+- Guo, Qipeng, Xipeng Qiu, Pengfei Liu, Yunfan Shao, Xiangyang Xue, and Zheng Zhang. "Star-transformer." arXiv preprint arXiv:1902.09113 (2019).
+- Child, Rewon, Scott Gray, Alec Radford, and Ilya Sutskever. "Generating long sequences with sparse transformers." arXiv preprint arXiv:1904.10509 (2019).
+- Kitaev, Nikita, Łukasz Kaiser, and Anselm Levskaya. "Reformer: The efficient transformer." arXiv preprint arXiv:2001.04451 (2020).
+- Beltagy, Iz, Matthew E. Peters, and Arman Cohan. "Longformer: The long-document transformer." arXiv preprint arXiv:2004.05150 (2020).
+- Tay, Yi, Dara Bahri, Donald Metzler, Da-Cheng Juan, Zhe Zhao, and Che Zheng. "Synthesizer: Rethinking self-attention in transformer models." arXiv preprint arXiv:2005.00743 (2020).
+- Wang, Sinong, Belinda Li, Madian Khabsa, Han Fang, and Hao Ma. "Linformer: Self-attention with linear complexity." arXiv preprint arXiv:2006.04768 (2020).
 
 **10. Efficient Transformers: Longformer, Linformer, Linear Transformers, BigBird**
+- Tay, Yi, Dara Bahri, Liu Yang, Donald Metzler, and Da-Cheng Juan. "Sparse sinkhorn attention." In International Conference on Machine Learning, pp. 9438-9447. PMLR, 2020.
+- Choromanski, Krzysztof, Valerii Likhosherstov, David Dohan, Xingyou Song, Andreea Gane, Tamas Sarlos, Peter Hawkins et al. "Rethinking attention with performers." arXiv preprint arXiv:2009.14794 (2020).
+- Katharopoulos, Angelos, Apoorv Vyas, Nikolaos Pappas, and François Fleuret. "Transformers are rnns: Fast autoregressive transformers with linear attention." In International Conference on Machine Learning, pp. 5156-5165. PMLR, 2020.
+- Zaheer, Manzil, Guru Guruganesh, Avinava Dubey, Joshua Ainslie, Chris Alberti, Santiago Ontanon, Philip Pham et al. "Big bird: Transformers for longer sequences." arXiv preprint arXiv:2007.14062 (2020).
+- Roy, Aurko, Mohammad Saffar, Ashish Vaswani, and David Grangier. "Efficient content-based sparse attention with routing transformers." Transactions of the Association for Computational Linguistics 9 (2021): 53-68.
+- Tay, Yi, Mostafa Dehghani, Dara Bahri, and Donald Metzler. "Efficient transformers: A survey." arXiv preprint arXiv:2009.06732 (2020).
 
-**11. Other popular BERT models: SuperGLUE, StructBERT, Electra, DeBERTa**
+**11. Other popular Transformer Models**
+- Gururangan, Suchin, Ana Marasović, Swabha Swayamdipta, Kyle Lo, Iz Beltagy, Doug Downey, and Noah A. Smith. "Don't Stop Pretraining: Adapt Language Models to Domains and Tasks." arXiv preprint arXiv:2004.10964 (2020).
+- Zhang, Yizhe, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu, and Bill Dolan. "Dialogpt: Large-scale generative pre-training for conversational response generation." arXiv preprint arXiv:1911.00536 (2019).
+- Li, Liunian Harold, Mark Yatskar, Da Yin, Cho-Jui Hsieh, and Kai-Wei Chang. "Visualbert: A simple and performant baseline for vision and language." arXiv preprint arXiv:1908.03557 (2019).
+- Lu, Jiasen, Dhruv Batra, Devi Parikh, and Stefan Lee. "Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks." arXiv preprint arXiv:1908.02265 (2019).
+- Clark, Kevin, Minh-Thang Luong, Quoc V. Le, and Christopher D. Manning. "Electra: Pre-training text encoders as discriminators rather than generators." arXiv preprint arXiv:2003.10555 (2020).
+- He, Pengcheng, Xiaodong Liu, Jianfeng Gao, and Weizhu Chen. "Deberta: Decoding-enhanced bert with disentangled attention." arXiv preprint arXiv:2006.03654 (2020).
+- Joshi, Mandar, Danqi Chen, Yinhan Liu, Daniel S. Weld, Luke Zettlemoyer, and Omer Levy. "Spanbert: Improving pre-training by representing and predicting spans." Transactions of the Association for Computational Linguistics 8 (2020): 64-77.
+- Fedus, William, Barret Zoph, and Noam Shazeer. "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity." arXiv preprint arXiv:2101.03961 (2021).
 
 **12. Model Compression for NLP: Pruning, Quantization**
 
