@@ -1,4 +1,4 @@
-An Hour of Learning
+An Hour of Learning: Deep Learning for NLP
 
 **1. MLPs and Embeddings: Word2Vec, GloVe, fastText**
 - Rumelhart, David E., Geoffrey E. Hinton, and Ronald J. Williams. "Learning representations by back-propagating errors." nature 323, no. 6088 (1986): 533-536.
