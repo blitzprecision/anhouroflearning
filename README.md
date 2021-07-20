@@ -27,7 +27,7 @@ An Hour of Learning: Deep Learning for NLP
 - Cho, Kyunghyun, Bart Van Merriënboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, and Yoshua Bengio. "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078 (2014).
 
 
-**3. Encoder-decoder, attention models, ELMo**  [Udemy Course Link] (https://www.udemy.com/course/ahol-dl4nlp2/?referralCode=3BD3627FAE3FF1F5CDC9)
+**3. Encoder-decoder, attention models, ELMo**  [Udemy Course Link](https://www.udemy.com/course/ahol-dl4nlp2/?referralCode=3BD3627FAE3FF1F5CDC9)
  
 - Cho, Kyunghyun, Bart Van Merriënboer, Caglar Gulcehre, Dzmitry Bahdanau, Fethi Bougares, Holger Schwenk, and Yoshua Bengio. "Learning phrase representations using RNN encoder-decoder for statistical machine translation." arXiv preprint arXiv:1406.1078 (2014). https://arxiv.org/pdf/1406.1078.pdf
 - Bahdanau, Dzmitry, Kyunghyun Cho, and Yoshua Bengio. "Neural machine translation by jointly learning to align and translate." arXiv preprint arXiv:1409.0473 (2014). https://arxiv.org/pdf/1409.0473.pdf
