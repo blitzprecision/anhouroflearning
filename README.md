@@ -119,8 +119,10 @@ An Hour of Learning: Deep Learning for NLP
 - Lepikhin, Dmitry, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, and Zhifeng Chen. "Gshard: Scaling giant models with conditional computation and automatic sharding." arXiv preprint arXiv:2006.16668 (2020).
 
 **12. Model Compression for NLP: Pruning, Quantization**
+- Gupta, Manish, and Puneet Agrawal. "Compression of Deep Learning Models for Text: A Survey." arXiv preprint arXiv:2008.05221 (2020).
 
 **13. Model Compression for NLP: Knowledge Distillation**
+- Gupta, Manish, and Puneet Agrawal. "Compression of Deep Learning Models for Text: A Survey." arXiv preprint arXiv:2008.05221 (2020).
 
 **14. Graph neural networks**
 
