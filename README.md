@@ -125,6 +125,27 @@ An Hour of Learning: Deep Learning for NLP
 - Gupta, Manish, and Puneet Agrawal. "Compression of Deep Learning Models for Text: A Survey." arXiv preprint arXiv:2008.05221 (2020).
 
 **14. Graph neural networks**
+- Graph Neural Networks: Models and Applications. Yao Ma, Wei Jin, Jiliang Tang, Yiqi Wang, Tyler Derr. AAAI 2021 tutorial.
+- A Tutorial on Graph Neural Networks for Natural Language Processing. Shikhar Vashishth, Y. Naganand, Partha Talukdar. EMNLP 2019 tutorial.
+- Kipf, Thomas N., and Max Welling. "Semi-supervised classification with graph convolutional networks." arXiv preprint arXiv:1609.02907 (2016).
+- Veličković, Petar, Guillem Cucurull, Arantxa Casanova, Adriana Romero, Pietro Lio, and Yoshua Bengio. "Graph attention networks." arXiv preprint arXiv:1710.10903 (2017).
+- Vashishth, Shikhar, Prateek Yadav, Manik Bhandari, and Partha Talukdar. "Confidence-based graph convolutional networks for semi-supervised learning." In The 22nd International Conference on Artificial Intelligence and Statistics, pp. 1792-1801. PMLR, 2019.
+- Marcheggiani, Diego, and Ivan Titov. "Encoding sentences with graph convolutional networks for semantic role labeling." arXiv preprint arXiv:1703.04826 (2017).
+- Gilmer, Justin, Samuel S. Schoenholz, Patrick F. Riley, Oriol Vinyals, and George E. Dahl. "Neural message passing for quantum chemistry." In International conference on machine learning, pp. 1263-1272. PMLR, 2017.
+- Dhillon, Inderjit S., Yuqiang Guan, and Brian Kulis. "Weighted graph cuts without eigenvectors a multilevel approach." IEEE transactions on pattern analysis and machine intelligence 29, no. 11 (2007): 1944-1957.
+- Vinyals, Oriol, Samy Bengio, and Manjunath Kudlur. "Order matters: Sequence to sequence for sets." arXiv preprint arXiv:1511.06391 (2015).
+- Zhang, Muhan, Zhicheng Cui, Marion Neumann, and Yixin Chen. "An end-to-end deep learning architecture for graph classification." In Thirty-Second AAAI Conference on Artificial Intelligence. 2018.
+- Ying, Rex, Jiaxuan You, Christopher Morris, Xiang Ren, William L. Hamilton, and Jure Leskovec. "Hierarchical graph representation learning with differentiable pooling." arXiv preprint arXiv:1806.08804 (2018).
+- Gao, Hongyang, and Shuiwang Ji. "Graph u-nets." In international conference on machine learning, pp. 2083-2092. PMLR, 2019.
+- Cangea, Cătălina, Petar Veličković, Nikola Jovanović, Thomas Kipf, and Pietro Liò. "Towards sparse hierarchical graph classifiers." arXiv preprint arXiv:1811.01287 (2018).
+- Lee, Junhyun, Inyeop Lee, and Jaewoo Kang. "Self-attention graph pooling." In International Conference on Machine Learning, pp. 3734-3743. PMLR, 2019.
+- Hamilton, William L., Rex Ying, and Jure Leskovec. "Inductive representation learning on large graphs." In Proceedings of the 31st International Conference on Neural Information Processing Systems, pp. 1025-1035. 2017.
+- Bastings, Jasmijn, Ivan Titov, Wilker Aziz, Diego Marcheggiani, and Khalil Sima'an. "Graph convolutional encoders for syntax-aware neural machine translation." arXiv preprint arXiv:1704.04675 (2017). https://aclweb.org/anthology/papers/D/D17/D17-1209/ 
+- Beck, Daniel, Gholamreza Haffari, and Trevor Cohn. "Graph-to-sequence learning using gated graph neural networks." arXiv preprint arXiv:1806.09835 (2018).
+- Nguyen, Thien Huu, and Ralph Grishman. "Graph convolutional networks with argument-aware pooling for event detection." In Thirty-second AAAI conference on artificial intelligence. 2018.
+- Liu, Xiao, Zhunchen Luo, and Heyan Huang. "Jointly multiple events extraction via attention-based graph information aggregation." arXiv preprint arXiv:1809.09078 (2018).
+- Vashishth, Shikhar, Shib Sankar Dasgupta, Swayambhu Nath Ray, and Partha Talukdar. "Dating documents using graph convolution networks." arXiv preprint arXiv:1902.00175 (2019).
+- Vashishth, Shikhar, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, and Partha Talukdar. "Reside: Improving distantly-supervised neural relation extraction using side information." arXiv preprint arXiv:1812.04361 (2018).
 
 **15. Fake news detection**
 
