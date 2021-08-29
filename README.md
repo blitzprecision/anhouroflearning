@@ -148,6 +148,34 @@ An Hour of Learning: Deep Learning for NLP
 - Vashishth, Shikhar, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, and Partha Talukdar. "Reside: Improving distantly-supervised neural relation extraction using side information." arXiv preprint arXiv:1812.04361 (2018).
 
 **15. Hate speech detection**
+- Badjatiya, Pinkesh,  Gupta,  S.,Gupta, Manish,Varma, Vasudeva:  Deep  learning  forhate speech detection in tweets. In: Proceedings of the 26th international conference on WorldWide Web companion. pp. 759–760 (2017)
+- Bhardwaj, M., Akhtar, M.S., Ekbal, A.,Das, Amitava,Chakraborty, Tanmoy: Hostilitydetection dataset in hindi. arXiv preprint arXiv:2011.03588 (2020)
+- Burnap, P., Williams, M.L.: Us and them: identifying cyber hate on twitter across multipleprotected characteristics. EPJ Data science5, 1–15 (2016)
+- Chandra, M., Pathak, A., Dutta, E., Jain, P.,Gupta, Manish, Shrivastava, M., Kumaraguru,P.: Abuseanalyzer: Abuse detection, severity and target prediction for gab posts. In: Proceed-ings of the 28th International Conference on Computational Linguistics. pp. 6277–6283 (2020)
+- Cheng, L., Shu, K., Wu, S., Silva, Y.N., Hall, D.L., Liu, H.: Unsupervised cyberbullying detec-tion via time-informed gaussian mixture model. In: Proceedings of the 29th ACM InternationalConference on Information & Knowledge Management. pp. 185–194 (2020)
+- Das,  A.,  Wahi,  J.S.,  Li,  S.:  Detecting  hate  speech  in  multi-modal  memes.  arXiv  preprintarXiv:2012.14891 (2020)
+- Davidson, T., Warmsley, D., Macy, M., Weber, I.: Automated hate speech detection and theproblem of offensive language. In: Proceedings of the International AAAI Conference on Weband Social Media. vol. 11 (2017)
+- Fortuna, P., Nunes, S.: A survey on automatic detection of hate speech in text. ACM Com-puting Surveys (CSUR)51(4), 1–30 (2018)
+- Founta, A.M., Chatzakou, D., Kourtellis, N., Blackburn, J., Vakali, A., Leontiadis, I.: A unifieddeep learning architecture for abuse detection. In: Proceedings of the 10th ACM conference onweb science. pp. 105–114 (2019)
+- Gomez,  R.,  Gibert,  J.,  Gomez,  L.,  Karatzas,  D.:  Exploring  hate  speech  detection  in  multi-modal publications. In: Proceedings of the IEEE/CVF Winter Conference on Applications ofComputer Vision. pp. 1470–1478 (2020)
+- Juuti, M., Gr ̈ondahl, T., Flanagan, A., Asokan, N.: A little goes a long way: Improving toxiclanguage classification despite data scarcity. In: Proceedings of the 2020 Conference on Empir-ical Methods in Natural Language Processing: Findings. pp. 2991–3009 (2020)
+- Karlekar, S., Bansal, M.: Safecity: Understanding diverse forms of sexual harassment personalstories.  In:  Proceedings  of  the  2018  Conference  on  Empirical  Methods  in  Natural  LanguageProcessing. pp. 2805–2811 (2018)
+- Kennedy, B., Jin, X., Davani, A.M., Dehghani, M., Ren, X.: Contextualizing hate speech classi-fiers with post-hoc explanation. In: Proceedings of the 58th Annual Meeting of the Associationfor Computational Linguistics. pp. 5435–5442 (2020)
+- Kiela, D., Firooz, H., Mohan, A., Goswami, V., Singh, A., Ringshia, P., Testuggine, D.: Thehateful  memes  challenge:  Detecting  hate  speech  in  multimodal  memes.  Advances  in  NeuralInformation Processing Systems33(2020)
+- MacAvaney, S., Yao, H.R., Yang, E., Russell, K., Goharian, N., Frieder, O.: Hate speech de-tection: Challenges and solutions. PloS one14(8), e0221152 (2019)
+- Mou,  G.,  Ye,  P.,  Lee,  K.:  Swe2:  Subword  enriched  and  significant  word  emphasized  frame-work for hate speech detection. In: Proceedings of the 29th ACM International Conference onInformation & Knowledge Management. pp. 1145–1154 (2020)
+- Nobata, C., Tetreault, J., Thomas, A., Mehdad, Y., Chang, Y.: Abusive language detection inonline user content. In: Proceedings of the 25th international conference on world wide web.pp. 145–153 (2016)
+- Parikh, P., Abburi, H.,Badjatiya, Pinkesh, Krishnan, R., Chhaya, N.,Gupta, M.,Varma,Vasudeva:  Multi-label  categorization  of  accounts  of  sexism  using  a  neural  framework.  In:Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing andthe 9th International Joint Conference on Natural Language Processing (EMNLP-IJCNLP).pp. 1642–1652 (2019)
+- Parikh, P., Abburi, H., Chhaya, N.,Gupta, Manish,Varma, Vasudeva: Categorizing sexismand misogyny through neural approaches. Transactions of the Web (TWEB) (2021)
+- Qian, J., ElSherief, M., Belding, E., Wang, W.Y.: Hierarchical cvae for fine-grained hate speechclassification. arXiv preprint arXiv:1809.00088 (2018)
+- Sharma, C., Bhageria, D., Scott, W., PYKL, S.,Das, Amitava,Chakraborty, Tanmoy,Pulabaigari,  V.,  Gamback,  B.:  Semeval-2020  task  8:  Memotion  analysis–the  visuo-lingualmetaphor! arXiv preprint arXiv:2008.03781 (2020)
+- Silva, L., Mondal, M., Correa, D., Benevenuto, F., Weber, I.: Analyzing the targets of hate inonline social media. In: Proceedings of the International AAAI Conference on Web and SocialMedia. vol. 10 (2016)
+- Suvarna, A., Bhalla, G.: # notawhore! a computational linguistic perspective of rape cultureand victimization on social media. In: Proceedings of the 58th Annual Meeting of the Associ-ation for Computational Linguistics: Student Research Workshop. pp. 328–335 (2020)
+- Waseem, Z.: Are you a racist or am i seeing things? annotator influence on hate speech detectionon twitter. In: Proceedings of the first workshop on NLP and computational social science. pp.138–142 (2016)
+- Waseem, Z., Hovy, D.: Hateful symbols or hateful people? predictive features for hate speechdetection  on  twitter.  In:  Proceedings  of  the  NAACL  student  research  workshop.  pp.  88–93(2016)
+- Yang, F., Peng, X., Ghosh, G., Shilon, R., Ma, H., Moore, E., Predovic, G.: Exploring deepmultimodal fusion of text and photo for hate speech classification. In: Proceedings of the ThirdWorkshop on Abusive Language Online. pp. 11–18 (2019)
+- Zhang, Z., Luo, L.: Hate speech detection: A solved problem? the challenging case of long tailon twitter. Semantic Web10(5), 925–945 (2019)
+- Zhong, H., Li, H., Squicciarini, A.C., Rajtmajer, S.M., Griffin, C., Miller, D.J., Caragea, C.:Content-driven detection of cyberbullying on the instagram social network. In: IJCAI. vol. 16,pp. 3952–3958 (2016)
 
 **16. Fake news detection**
 
