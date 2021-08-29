@@ -147,9 +147,9 @@ An Hour of Learning: Deep Learning for NLP
 - Vashishth, Shikhar, Shib Sankar Dasgupta, Swayambhu Nath Ray, and Partha Talukdar. "Dating documents using graph convolution networks." arXiv preprint arXiv:1902.00175 (2019).
 - Vashishth, Shikhar, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, and Partha Talukdar. "Reside: Improving distantly-supervised neural relation extraction using side information." arXiv preprint arXiv:1812.04361 (2018).
 
-**15. Fake news detection**
+**15. Hate speech detection**
 
-**16. Hate speech detection**
+**16. Fake news detection**
 
 **17. Summarization**
 
