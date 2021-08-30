@@ -108,7 +108,7 @@ An Hour of Learning: Deep Learning for NLP
 - Roy, Aurko, Mohammad Saffar, Ashish Vaswani, and David Grangier. "Efficient content-based sparse attention with routing transformers." Transactions of the Association for Computational Linguistics 9 (2021): 53-68.
 - Tay, Yi, Mostafa Dehghani, Dara Bahri, and Donald Metzler. "Efficient transformers: A survey." arXiv preprint arXiv:2009.06732 (2020).
 
-**11. Other popular Transformer Models**
+**11. Some popular Transformer Models** [Udemy Course Link](https://www.udemy.com/course/ahol-dl4nlp6/?referralCode=2B19F7309215C76C4D88)
 - Zhang, Yizhe, Siqi Sun, Michel Galley, Yen-Chun Chen, Chris Brockett, Xiang Gao, Jianfeng Gao, Jingjing Liu, and Bill Dolan. "Dialogpt: Large-scale generative pre-training for conversational response generation." arXiv preprint arXiv:1911.00536 (2019).
 - Li, Liunian Harold, Mark Yatskar, Da Yin, Cho-Jui Hsieh, and Kai-Wei Chang. "Visualbert: A simple and performant baseline for vision and language." arXiv preprint arXiv:1908.03557 (2019).
 - Lu, Jiasen, Dhruv Batra, Devi Parikh, and Stefan Lee. "Vilbert: Pretraining task-agnostic visiolinguistic representations for vision-and-language tasks." arXiv preprint arXiv:1908.02265 (2019).
@@ -118,13 +118,13 @@ An Hour of Learning: Deep Learning for NLP
 - Fedus, William, Barret Zoph, and Noam Shazeer. "Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity." arXiv preprint arXiv:2101.03961 (2021).
 - Lepikhin, Dmitry, HyoukJoong Lee, Yuanzhong Xu, Dehao Chen, Orhan Firat, Yanping Huang, Maxim Krikun, Noam Shazeer, and Zhifeng Chen. "Gshard: Scaling giant models with conditional computation and automatic sharding." arXiv preprint arXiv:2006.16668 (2020).
 
-**12. Model Compression for NLP: Pruning, Quantization**
+**12. Model Compression for NLP: Pruning, Quantization** [Udemy Course Link](https://www.udemy.com/course/ahol-dl4nlp7/?referralCode=A10EED43FFCAB8C27139)
 - Gupta, Manish, and Puneet Agrawal. "Compression of Deep Learning Models for Text: A Survey." arXiv preprint arXiv:2008.05221 (2020).
 
-**13. Model Compression for NLP: Knowledge Distillation**
+**13. Model Compression for NLP: Knowledge Distillation** [Udemy Course Link](https://www.udemy.com/course/ahol-dl4nlp7/?referralCode=A10EED43FFCAB8C27139)
 - Gupta, Manish, and Puneet Agrawal. "Compression of Deep Learning Models for Text: A Survey." arXiv preprint arXiv:2008.05221 (2020).
 
-**14. Graph neural networks**
+**14. Graph neural networks** [Udemy Course Link](https://www.udemy.com/course/ahol-dl4nlp8/?referralCode=9A526212A04A819625A3)
 - Graph Neural Networks: Models and Applications. Yao Ma, Wei Jin, Jiliang Tang, Yiqi Wang, Tyler Derr. AAAI 2021 tutorial.
 - A Tutorial on Graph Neural Networks for Natural Language Processing. Shikhar Vashishth, Y. Naganand, Partha Talukdar. EMNLP 2019 tutorial.
 - Kipf, Thomas N., and Max Welling. "Semi-supervised classification with graph convolutional networks." arXiv preprint arXiv:1609.02907 (2016).
