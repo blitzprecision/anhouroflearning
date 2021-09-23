@@ -1,6 +1,6 @@
 An Hour of Learning: Deep Learning for NLP
 
-**1. MLPs and Embeddings: Word2Vec, GloVe, fastText**
+**1. MLPs and Embeddings: Word2Vec, GloVe, fastText** [Udemy Course Link](https://www.udemy.com/course/ahol-dl4nlp1/?referralCode=60FD271AEA691F58263F)
 - Rumelhart, David E., Geoffrey E. Hinton, and Ronald J. Williams. "Learning representations by back-propagating errors." nature 323, no. 6088 (1986): 533-536.
 - Mikolov, Tomas, Ilya Sutskever, Kai Chen, Greg S. Corrado, and Jeff Dean. "Distributed representations of words and phrases and their compositionality." In Advances in neural information processing systems, pp. 3111-3119. 2013.
 - Pennington, J., Socher, R., & Manning, C. D. (2014). Glove: Global Vectors for Word Representation. Proceedings of the 2014 Conference on Empirical Methods in Natural Language Processing, 1532–1543.
@@ -18,7 +18,7 @@ An Hour of Learning: Deep Learning for NLP
 - Schuster, Mike, and Kaisuke Nakajima. "Japanese and korean voice search." In 2012 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 5149-5152. IEEE, 2012.
 - Kudo, Taku, and John Richardson. "Sentencepiece: A simple and language independent subword tokenizer and detokenizer for neural text processing." arXiv preprint arXiv:1808.06226 (2018).
 
-**2. RNNs, GRUs, LSTMs, variants.**
+**2. RNNs, GRUs, LSTMs, variants.** [Udemy Course Link](https://www.udemy.com/course/ahol-dl4nlp1/?referralCode=60FD271AEA691F58263F)
 - https://colah.github.io/posts/2015-08-Understanding-LSTMs/
 - http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 - Hochreiter, Sepp, and Jürgen Schmidhuber. "Long short-term memory." Neural computation 9, no. 8 (1997): 1735-1780.
@@ -147,7 +147,7 @@ An Hour of Learning: Deep Learning for NLP
 - Vashishth, Shikhar, Shib Sankar Dasgupta, Swayambhu Nath Ray, and Partha Talukdar. "Dating documents using graph convolution networks." arXiv preprint arXiv:1902.00175 (2019).
 - Vashishth, Shikhar, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, and Partha Talukdar. "Reside: Improving distantly-supervised neural relation extraction using side information." arXiv preprint arXiv:1812.04361 (2018).
 
-**15. Hate speech detection**
+**15. Hate speech detection** [Udemy Course Link](https://www.udemy.com/course/ahol-dl4nlp9/?referralCode=37FE62AC40DA236073C8)
 - Badjatiya, Pinkesh,  Gupta,  S.,Gupta, Manish, Varma, Vasudeva:  Deep  learning  for hate speech detection in tweets. In: Proceedings of the 26th international conference on World Wide Web companion. pp. 759–760 (2017)
 - Bhardwaj, M., Akhtar, M.S., Ekbal, A.,Das, Amitava, Chakraborty, Tanmoy: Hostility detection dataset in hindi. arXiv preprint arXiv:2011.03588 (2020)
 - Burnap, P., Williams, M.L.: Us and them: identifying cyber hate on twitter across multiple protected characteristics. EPJ Data science5, 1–15 (2016)
@@ -177,7 +177,30 @@ An Hour of Learning: Deep Learning for NLP
 - Zhang, Z., Luo, L.: Hate speech detection: A solved problem? the challenging case of long tail on twitter. Semantic Web10(5), 925–945 (2019)
 - Zhong, H., Li, H., Squicciarini, A.C., Rajtmajer, S.M., Griffin, C., Miller, D.J., Caragea, C.:Content-driven detection of cyberbullying on the instagram social network. In: IJCAI. vol. 16,pp. 3952–3958 (2016)
 
-**16. Fake news detection**
+**16. Fake news detection** [Udemy Course Link](https://www.udemy.com/course/ahol-dl4nlp10/?referralCode=C3284FAEE06D6AD036C7)
+- Fake News Research: Theories, Detection Strategies, and Open Problems. Reza Zafarani, Xinyi Zhou, Kai Shu, Huan Liu. Tutorial | 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining. 2019.
+- Popat, Kashyap, Subhabrata Mukherjee, Andrew Yates, and Gerhard Weikum. "Declare: Debunking fake news and false claims using evidence-aware deep learning." arXiv preprint arXiv:1809.06416 (2018).
+- Valerie Hauch, Iris Blandón-Gitlin, Jaume Masip, and Siegfried L Sporer. 2015. Are computers effective lie detectors? A meta-analysis of linguistic cues to deception. Personality and Social Psychology Review 19, 4 (2015), 307–342.
+- Zhou, Xinyi, Atishay Jain, Vir V. Phoha, and Reza Zafarani. "Fake news early detection: A theory-driven model." Digital Threats: Research and Practice 1, no. 2 (2020): 1-25.
+- Wang, William Yang. "Liar, liar pants on fire": A new benchmark dataset for fake news detection. arXiv preprint arXiv:1705.00648 (2017).
+- Castillo, Carlos, Marcelo Mendoza, and Barbara Poblete. "Information credibility on twitter." In Proceedings of the 20th international conference on World wide web, pp. 675-684. 2011.
+- Yang, Yang, Lei Zheng, Jiawei Zhang, Qingcai Cui, Zhoujun Li, and Philip S. Yu. "TI-CNN: Convolutional neural networks for fake news detection." arXiv preprint arXiv:1806.00749 (2018).
+- Wang, Yaqing, Fenglong Ma, Zhiwei Jin, Ye Yuan, Guangxu Xun, Kishlay Jha, Lu Su, and Jing Gao. "Eann: Event adversarial neural networks for multi-modal fake news detection." KDD, pp. 849-857. 2018.
+- Dhruv Khattar, Jaipal Singh Goud, Manish Gupta, Vasudeva Varma. MVAE: Multimodal Variational Autoencoder for Fake News Detection [Poster]. The Web Conference 2019. May 13-17, 2019. San Francisco.
+- Huh, Minyoung, Andrew Liu, Andrew Owens, and Alexei A. Efros. "Fighting fake news: Image splice detection via learned self-consistency." In ECCV, pp. 101-117. 2018.
+- Ma, Jing, Wei Gao, Prasenjit Mitra, Sejeong Kwon, Bernard J. Jansen, Kam-Fai Wong, and Meeyoung Cha. "Detecting rumors from microblogs with recurrent neural networks." (2016): 3818.
+- Ma, Jing, Wei Gao, and Kam-Fai Wong. "Detect rumors in microblog posts using propagation structure via kernel learning." Association for Computational Linguistics, 2017.
+- Liu, Yang, and Yi-Fang Brook Wu. "Early detection of fake news on social media through propagation path classification with recurrent and convolutional networks." AAAI 2018.
+- Ma, Jing, Wei Gao, and Kam-Fai Wong. "Rumor detection on twitter with tree-structured recursive neural networks." Association for Computational Linguistics, 2018.
+- Pinnaparaju, Nikhil, Manish Gupta, and Vasudeva Varma. "T3N: Harnessing Text and Temporal Tree Network for Rumor Detection on Twitter." In PAKDD, pp. 686-700. Springer, Cham, 2021.
+- Z. Jin, et al. News Verification by Exploiting Conflicting Social Viewpoints in Microblogs. AAAI’16
+- M. Gupta, et al. Evaluating Event Credibility on Twitter. SDM’12
+- Shu, Kai, Suhang Wang, and Huan Liu. "Beyond news contents: The role of social context for fake news detection." In Proceedings of the twelfth ACM international conference on web search and data mining, pp. 312-320. 2019.
+- Zhang, Jiawei, Bowen Dong, and Philip S. Yu. "FAKEDETECTOR: Effective Fake News Detection with Deep Diffusive Neural Network." (2018). ICDE
+- Monti, Federico, Fabrizio Frasca, Davide Eynard, Damon Mannion, and Michael M. Bronstein. "Fake news detection on social media using geometric deep learning." arXiv preprint arXiv:1902.06673 (2019).
+- Shu, Kai, Limeng Cui, Suhang Wang, Dongwon Lee, and Huan Liu. "dEFEND: Explainable Fake News Detection." (2019). KDD
+- Zellers, Rowan, Ari Holtzman, Hannah Rashkin, Yonatan Bisk, Ali Farhadi, Franziska Roesner, and Yejin Choi. "Defending against neural fake news." arXiv preprint arXiv:1905.12616 (2019).
+
 
 **17. Summarization**
 
